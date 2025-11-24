@@ -66,7 +66,7 @@ public class ToDo {
 		return status;
 	}
 
-	public void setStatus(String status) {
+	public void setStatuses(String status) {
 		this.status = status;
 	}
 
